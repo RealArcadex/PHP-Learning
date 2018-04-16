@@ -1,0 +1,20 @@
+[A] Fix signup css on main pages
+
+[A] Clean up error page
+
+[B] Add info.php
+
+[A] Give info.php things inside
+
+[A] Put this to-do as a seperate page
+
+[A] Fix main page navigation seperation
+
+
+---------------------------------------------------------------------
+
+
+
+[A] - Need finishing / updating
+
+[B] - Complete! (Remove)
