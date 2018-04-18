@@ -12,7 +12,7 @@ if (isset($_POST['submit'])) {
     //Error handlers
     //Check if these inputs are empty
     if (empty($uid) || empty($pwd)) {
-        header("Location: ./index.php?login=empty");
+        header("Location: ./404.html");
         exit();
     } else {
         $sql = "SELECT * FROM users WHERE user_uid= '$uid' OR user_email='$uid'";
