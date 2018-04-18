@@ -8,7 +8,7 @@
     </div>
     <body>
         <br/>
-        <p><center>Welcome to my website!<br/></center><center><img src="http://www.jkp.com/jkpblog/wp-content/uploads/2014/08/whoops-Adele-Devine-image.jpg" height="100" width="100" /></center></p>
+        <p><center>Welcome to my website!- But looks like we're messing some stuff...<br/></center><center><img src="http://www.jkp.com/jkpblog/wp-content/uploads/2014/08/whoops-Adele-Devine-image.jpg" alt="Looks like we are missing something..." height="250" width="250" /></center></p>
     </body>
 </section>
 
