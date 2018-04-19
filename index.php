@@ -12,7 +12,7 @@
             }
 			include_once 'sidebar.php';
         ?>
-		<center><font color="red">Whoops! You caught us whilst we haven't even figured out what we're doing!</font></center>
+		<center><font color="red">Whoops! You caught us whilst we haven't even figured out what we're doing!t</font></center>
 		</body>
 	</div>
 </section>
