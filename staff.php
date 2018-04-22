@@ -1,23 +1,16 @@
-<?php
-	include_once 'top-nav.php'
-?>
-
 <html>
 	<head>
-		<title>Staff List</title>
-		<link rel="stylesheet" type="text/css" href="css/staff.css">
+		<title>RESTRICTED!</title>
+		<link rel="stylesheet" type="text/css" href="css/restrictions.css">
 	</head>
 	<body>
-	<div class="row">
-		<div class="column">
-			<div class="card">
-				<img src="images/img1.png" alt="Jane" style="width:100%">
-				<div class="containerE">
-					<h2>Arcadex</h2>
-						<p class="title">Founder | Developer</p>
-						<p>Administration and Management</p>
-						<p><button class="test">Ranking: 4</button></p>
-						<p><form action="t.html" method="POST"><button class="button">View Profile</button></form></p>
-				</div>
-			</div>
-		</div>
+		This page is restricted!
+		</br>
+		<hr>
+		</br>
+		<p><button class="enter">Enter!</button></p>
+		<input type="text" name="uid" class="disabled" placeholder="Username"></br></br>
+		<input type="password" name="pwd" class="disabled" placeholder="Password"></br></br>
+		<button class="submit">Submit</button>
+	</body>
+</html>
