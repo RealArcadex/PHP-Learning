@@ -1,3 +1,7 @@
+<?php
+	include_once 'header.php'
+?>
+
 <html>
 	<head>
 		<title>yes</title>
