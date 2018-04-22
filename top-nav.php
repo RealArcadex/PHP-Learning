@@ -5,10 +5,10 @@
     </head>
     <body>
     <div class="topnav">
-    <a class="active" href="#home">Home</a>
-    <a href="#news">Info</a>
-    <a href="#contact">Discord</a>
-    <a href="#about">Contact</a>
+    <a class="active" href="index.php">Home</a>
+    <a href="info.php">Info</a>
+    <a href="discord.php">Discord</a>
+    <a href="in-dev.html">Contact</a>
     </div>
     </body>
 </html>
