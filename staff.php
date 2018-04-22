@@ -1,0 +1,23 @@
+<?php
+    include_once 'header.php';
+?>
+
+<html>
+	<head>
+		<title>yes</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+	<div class="row">
+		<div class="column">
+			<div class="card">
+				<img src="img1.png" alt="Jane" style="width:100%">
+				<div class="container">
+					<h2>Arcadex</h2>
+						<p class="title">Founder | Developer</p>
+						<p>Administration and Management</p>
+						<p><button class="test">Ranking: 4</button></p>
+						<p><form action="t.html" method="POST"><button class="button">View Profile</button></form></p>
+				</div>
+			</div>
+		</div>
