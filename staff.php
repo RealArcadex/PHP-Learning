@@ -5,7 +5,7 @@
 <html>
 	<head>
 		<title>yes</title>
-		<link rel="stylesheet" type="text/css" href="staff.css">
+		<link rel="stylesheet" type="text/css" href="css/staff.css">
 	</head>
 	<body>
 	<div class="row">
