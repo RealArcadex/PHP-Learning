@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>top-navigation</title>
-        <link rel="stylesheet" type="text/css" href="css/t.css">
+        <link rel="stylesheet" type="text/css" href="css/top-nav.css">
     </head>
     <body>
     <div class="topnav">
@@ -10,5 +10,6 @@
     <a href="discord.php">Discord</a>
     <a href="in-dev.html">Contact</a>
     </div>
+    </br>
     </body>
 </html>
