@@ -4,7 +4,7 @@
 
 <html>
 	<head>
-		<title>yes</title>
+		<title>Staff List</title>
 		<link rel="stylesheet" type="text/css" href="css/staff.css">
 	</head>
 	<body>
