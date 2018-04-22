@@ -253,15 +253,6 @@ header nav-login a {
     background-color: #111; 
     overflow-x: hidden; 
     padding-top: 20px;
-	opacity: 1;
-	transition: opacity .25s ease-in-out;
-	-moz-transition: opacity .25s ease-in-out;
-	-webkit-transition: opacity .25s ease-in-out;
-}
-
-.sidenav:hover {
-	background-color: #121333;
-	opacity: 0.8;
 }
 
 .sidenav a {
@@ -271,17 +262,6 @@ header nav-login a {
 	font-family: arial;
     color: #818181;
     display: block;
-}
-
-.fade {
-   opacity: 1.0;
-   transition: opacity .25s ease-in-out;
-   -moz-transition: opacity .25s ease-in-out;
-   -webkit-transition: opacity .25s ease-in-out;
-   }
-
-.fade:hover {
-    opacity: 0.5;
 }
 
 .sidenav a:hover {

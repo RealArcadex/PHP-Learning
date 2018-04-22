@@ -1,3 +1,7 @@
+<?php
+	include_once 'top-nav.php'
+?>
+
 <html>
 	<head>
 		<title>RESTRICTED!</title>
