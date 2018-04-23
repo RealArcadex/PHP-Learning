@@ -29,9 +29,12 @@
                         <input type="password" name="pwd" placeholder="Password">
                         <button type="submit" name="submit">Login</button>
                         </form>
-                        <a href="signup.php">Sign Up!</a>';
+                        <a href="signup.php"></a>';
                     }
                 ?>
+				<div class="signup">
+					<a href="signup.php">Sign Up!</a>
+				</div>
             </div>
         </div>
     </nav>

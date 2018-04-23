@@ -184,6 +184,22 @@ header .nav-login form button:hover {
     background-color: #ccc;
 }
 
+.signup {
+	color: white;
+	display: block;
+	width: 62px;
+	height: 20px;
+	padding-top: 22px;
+	float: right;
+	font-family: arial;
+	border: none;
+	text-decoration: none;
+}
+
+a {
+	color: white;
+}
+
 header nav-login a {
     display: block;
     width: 60px;
