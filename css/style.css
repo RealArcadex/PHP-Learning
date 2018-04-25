@@ -266,8 +266,22 @@ header nav-login a {
 
 .updates {
     background-color: white;
-    height: 2940px;
+    height: 290px;
     font-family: arial;
+}
+
+.update-may {
+    position: relative;
+    vertical-align: top;
+    width: 300px;
+    border-bottom: 6px solid rgb(0, 162, 255);
+    padding: 25px;
+    margin: 25px;
+    bottom: 252px;
+    float: right;
+    background-color: rgb(202, 202, 202);
+    opacity: 0.6;
+    cursor: not-allowed;
 }
 
 .update-april {
@@ -275,7 +289,7 @@ header nav-login a {
     border-bottom: 6px solid #d80000;
     padding: 25px;
     margin: 25px;
-    background-color: rgb(231, 231, 231);
+    background-color: rgb(202, 202, 202);
     opacity: 1;
     cursor: pointer;
 }
@@ -290,19 +304,6 @@ header nav-login a {
     vertical-align: top;
     padding: 10px;
     color: white;
-}
-
-.update-may {
-    position: relative;
-    vertical-align: top;
-    width: 300px;
-    border-bottom: 6px solid rgb(0, 162, 255);
-    padding: 25px;
-    margin: 25px;
-    float: right;
-    background-color: rgb(231, 231, 231);
-    opacity: 0.6;
-    cursor: not-allowed;
 }
 
 /*the sideBar*/
