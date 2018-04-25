@@ -146,12 +146,13 @@ header nav ul li {
 header nav ul li a {
     font-family: arial;
     font-size: 16px;
-    color: #111;
     line-height: 63px;
 }
 
 header .nav-login {
     float: right;
+    color: #fff;
+    font-family: arial;
 }
 
 header .nav-login form {

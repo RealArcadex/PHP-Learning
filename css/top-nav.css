@@ -1,5 +1,5 @@
 .topnav {
-    background-color: #333;
+    background-color: black;
     overflow: hidden;
 }
 
@@ -9,6 +9,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border-radius: 4px;
     font-size: 17px;
 }
 

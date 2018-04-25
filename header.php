@@ -19,7 +19,9 @@
             <div class="nav-login">
                 <?php
                     if (isset($_SESSION['u_id'])) {
-                        echo $_SESSION['u_uid'].'<form action="includes/logout.inc.php" method="POST">
+                        /*echo "<div class='login-user'>"$_SESSION['u_uid'];"</div>";*/
+                        echo
+                        '<form action="includes/logout.inc.php" method="POST">
                         <button type="submit" name="submit">Logout</button>
                         </form>';
                     } else {

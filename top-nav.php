@@ -5,11 +5,11 @@
     </head>
     <body>
     <div class="topnav">
-    <a class="active" href="index.php">Home</a>
+    <a href="index.php">Home</a>
     <a href="info.php">Info</a>
     <a href="discord.php">Discord</a>
     <a href="in-dev.html">Contact</a>
-    <a href="staff.php">Staff</a>
+    <a class="active" href="staff.php">Staff</a>
     </div>
     </br>
     </body>
