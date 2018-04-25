@@ -13,8 +13,8 @@
 		<hr>
 		</br>
 		<p><button class="enter">Enter!</button></p>
-		<input type="text" name="uid" class="disabled" placeholder="Username"></br></br>
-		<input type="password" name="pwd" class="disabled" placeholder="Password"></br></br>
-		<button class="submit">Submit</button>
+		<input type="text" name="uid" class="" placeholder="Username"></br></br>
+		<input type="password" name="pwd" class="" placeholder="Password"></br></br>
+		<form action="404.html" method=POST"><button class="submit">Submit</button></form>
 	</body>
 </html>
