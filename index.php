@@ -24,7 +24,9 @@
                 <p>New button styles! ⁃ <b>21/04/18</b></p>
             </div>
             <div class="april-title">
-                <center>April 2018</center>
+                <center><?php
+                    echo date("d/m/y")
+                ?></center>
             </div>
             <div class="update-may">
                 <p>Unfinished ⁃ <b>00/05/18</b></p>‣</br>
