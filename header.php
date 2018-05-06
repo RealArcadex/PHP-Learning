@@ -1,5 +1,6 @@
 <?php
     session_start();
+    include_once 'sidebar.php'
 ?>
 
 <!DOCTYPE html>
@@ -24,7 +25,6 @@
             } else {
                 echo 'test';
             }
-			include_once 'sidebar.php';
             ?>
             <div class="nav-login">
                 <?php
