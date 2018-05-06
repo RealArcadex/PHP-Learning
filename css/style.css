@@ -116,6 +116,25 @@ body {
     background-color: #ccc;
 }
 
+.arcadex {
+    background-color: white;
+    padding-top: 3px;
+    border-radius: 8px;
+    height: 250px;
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    font-family: arial;
+}
+
+.adminpanel {
+    width: 131px;
+    position: relative;
+    left: 700px;
+    top: 10px;
+}
+
 .footer-main {
     position: absolute;
     bottom: 0;
@@ -147,6 +166,12 @@ header nav ul li a {
     font-family: arial;
     font-size: 16px;
     line-height: 63px;
+}
+
+.logout {
+    position: relative;
+    bottom: 37px;
+    background-color: red;
 }
 
 header .nav-login {
@@ -184,7 +209,7 @@ header .nav-login form button {
     font-family: arial;
     font-size: 14px;
     color: #111;
-    cursor: pointer;
+    position: relative;
 }
 
 header .nav-login form button:hover {
@@ -200,7 +225,7 @@ header .nav-login form button:hover {
 	float: right;
 	font-family: arial;
 	border: none;
-	text-decoration: none;
+    text-decoration: none;
 }
 
 a {
@@ -273,8 +298,20 @@ header nav-login a {
 
 .updates {
     background-color: white;
-    height: 290px;
+    height: 320px;
     font-family: arial;
+}
+
+.view-index1 {
+    padding-left: 150px;
+}
+
+.view-index2 {
+    position: absolute;
+    right: 530px;
+    top: 425px;
+    cursor: not-allowed;
+    opacity: 0.6;
 }
 
 .update-may {
@@ -284,7 +321,7 @@ header nav-login a {
     border-bottom: 6px solid rgb(0, 162, 255);
     padding: 25px;
     margin: 25px;
-    bottom: 251px;
+    bottom: 290px;
     float: right;
     background-color: rgb(202, 202, 202);
     opacity: 0.6;
@@ -293,7 +330,7 @@ header nav-login a {
 
 .update-april {
     width: 300px;
-    border-bottom: 6px solid #d80000;
+    border-bottom: 6px solid #4CAF50;
     padding: 25px;
     margin: 25px;
     background-color: rgb(202, 202, 202);
