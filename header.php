@@ -20,7 +20,7 @@
             </ul>
             <?php
             if (isset($_SESSION['u_id'])) {
-                echo '<div class="adminpanel"><button class="red">Admin Panel</button></div>';
+                echo '<form action="adminp/index.html" method="POST"><div class="adminpanel"><button class="red">Admin Panel</button></div></form>';
             } else {
                 echo 'test';
             }
@@ -46,7 +46,7 @@
                 ?>
                 <?php
                     if (isset($_SESSION['u_id'])) {
-                        echo '$u_id';
+                        echo '';
                     } else {
                         echo '<div class="signup">
                         <a href="signup.php">Sign Up!</a>
