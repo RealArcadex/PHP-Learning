@@ -130,6 +130,7 @@ body {
 
 .adminpanel {
     width: 131px;
+    height: 30px;
     position: relative;
     left: 700px;
     top: 10px;
